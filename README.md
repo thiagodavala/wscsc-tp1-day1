@@ -21,3 +21,9 @@ go build main.go
 chmod +x day1
 ./day1
 ```
+
+## Test
+
+```
+k6 run k6/test.js
+```
